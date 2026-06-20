@@ -1,0 +1,108 @@
+    +----------------------------------------------------------------------+
+    |                            PRODUCT LIST                            |
+    +----------------------------------------------------------------------+
+
+    Prod ID           Name              Category      Price    Stock   Rating 
+    ----------------------------------------------------------------------
+       1         Cotton T-shirt            Men       RM29.90     48      4    
+
+       2           Denim Jeans             Men       RM89.90     30      4    
+
+       3         Leather Jacket            Men       RM129.90    19      5    
+
+       4         Running Shorts            Men       RM39.90     35      4    
+
+       5           Polo Shirt              Men       RM49.90     22      4    
+
+       6          Slim Joggers             Men       RM69.90     20      4    
+
+       7          Cozy Sweater             Men       RM79.90     14      4    
+
+       8         Classic Tuxedo            Men       RM349.90    6       5    
+
+       9           Formal Suit             Men       RM299.90    10      5    
+
+       10         Casual Blazer            Men       RM199.90    10      5    
+
+       11        Sleeveless Vest           Men       RM19.90     30      3    
+
+       12          Swim Trunks             Men       RM29.90     35      4    
+
+       13         Leather Pants            Men       RM199.90    12      5    
+
+       14         Rubber Shorts            Men       RM15.90     40      3    
+
+       15         Analog Shirt             Men       RM89.90     20      4    
+
+       16       Polarized Jacket           Men       RM59.90     25      4    
+
+       17          SPF T-shirt             Men       RM19.90     30      4    
+
+       18          Silk Shirt              Men       RM25.90     20      3    
+
+       19        Leather Jacket           Women      RM129.90    20      5    
+
+       20         Sports Shorts           Women      RM39.90     60      4    
+
+       21         Casual Blouse           Women      RM49.90     25      5    
+
+       22         Pleated Skirt           Women      RM45.00     35      4    
+
+       23         Summer Dress            Women      RM99.90     18      5    
+
+       24          Cropped Top            Women      RM29.90     25      4    
+
+       25       Stretch Leggings          Women      RM39.90     40      4    
+
+       26       Knitted Cardigan          Women      RM89.90     15      5    
+
+       27           Soft Robe             Women      RM59.90     20      4    
+
+       28      One-Piece Swimsuit         Women      RM49.90     30      4    
+
+       29        Triangle Bikini          Women      RM39.90     25      4    
+
+       30        Sport One-Piece          Women      RM59.90     19      4    
+
+       31        Sheer Cover-Up           Women      RM34.90     30      4    
+
+       32         Evening Gown            Women      RM399.90    5       5    
+
+       33         Wedding Dress           Women      RM599.90    3       5    
+
+       34        Japanese Kimono          Women      RM89.90     15      4    
+
+       35          Silk Blouse            Women      RM24.90     25      4    
+
+       36         Leather Skirt           Women      RM29.90     20      4    
+
+       37         Leather Vest            Women      RM79.90     15      5    
+
+       38          Straw Dress            Women      RM24.90     18      4    
+
+       39          Gold Skirt             Women      RM29.90     20      4    
+
+       40         Silver Blouse           Women      RM19.90     25      4    
+
+       41         Velvet Dress            Women      RM22.90     15      4    
+
+       42          Comfy Pants            Women      RM59.90     20      4    
+
+       43          Warm Hoodie            Kids       RM59.90     40      4    
+
+       44        School Backpack          Kids       RM49.90     45      4    
+
+       45      Waterproof Raincoat        Kids       RM49.90     10      4    
+
+       46         Kids Pajamas            Kids       RM39.90     25      4    
+
+       47          Kids Shorts            Kids       RM12.90     40      3    
+
+       48         Beach Shorts            Kids       RM29.90     25      4    
+
+       49         Baseball Cap         Accessories   RM19.90    100      4    
+
+       50          Silk Scarf          Accessories   RM24.90     75      4    
+
+       51             Coat                Women      RM30.00     50      5    
+    ----------------------------------------------------------------------
