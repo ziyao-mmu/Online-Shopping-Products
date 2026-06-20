@@ -1,0 +1,16 @@
+
+  ==========================================
+       PAYMENT RECEIPT
+  ==========================================
+
+Order ID: 1
+Customer: chelsea
+Date: Jun 20 2026 22:30:29
+
+Items:
+  2 x Cotton T-shirt (L) = RM59.80
+  2 x Polo Shirt (M) = RM99.80
+
+Total Amount: RM159.60
+Status: PAID
+  ==========================================

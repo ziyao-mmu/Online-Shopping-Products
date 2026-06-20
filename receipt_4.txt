@@ -1,0 +1,16 @@
+
+  ==========================================
+       PAYMENT RECEIPT
+  ==========================================
+
+Order ID: 4
+Customer: joie
+Date: Jun 20 2026 22:30:29
+
+Items:
+  2 x Classic Tuxedo (M) = RM699.80
+  1 x Cozy Sweater (M) = RM79.90
+
+Total Amount: RM779.70
+Status: PAID
+  ==========================================

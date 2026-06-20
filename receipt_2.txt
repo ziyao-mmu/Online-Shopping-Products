@@ -1,0 +1,17 @@
+
+  ==========================================
+       PAYMENT RECEIPT
+  ==========================================
+
+Order ID: 2
+Customer: yisa
+Date: Jun 20 2026 22:30:29
+
+Items:
+  1 x Leather Jacket (S) = RM129.90
+  2 x Casual Blazer (S) = RM399.80
+  1 x Polo Shirt (XS) = RM49.90
+
+Total Amount: RM579.60
+Status: PAID
+  ==========================================
